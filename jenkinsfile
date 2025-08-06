@@ -1,0 +1,12 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('DEV') {
+            steps {
+                echo 'I am in DEV Env '
+            }
+           
+        }
+    }
+}
