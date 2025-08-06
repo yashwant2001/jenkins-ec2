@@ -1,14 +1,4 @@
-Here's a `README.md` file documenting the setup process you've outlined, formatted for clarity and usability:
-
----
-
-## 📦 Prerequisites
-
-- RHEL/CentOS system
-- `sudo` access
-- Internet connection
-
----
+``` Jenkins setup on EC2 LINUX with Git And Docker ```
 
 ## 🔧 Step-by-Step Installation
 
